@@ -22,7 +22,7 @@
 
 
     <properties>
-        <poi-version>3.11</poi-version>
+        <poi-version>3.17</poi-version>
     </properties>
     <dependencies>
         <dependency>
